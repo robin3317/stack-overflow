@@ -8,8 +8,8 @@
   "prettier.tabWidth": 2,
   "prettier.useTabs": false,
   "prettier.semi": false,
-  "prettier.singleQuote": false,
-  "prettier.jsxSingleQuote": false,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.arrowParens": "always",
   "[typescriptreact]": {
