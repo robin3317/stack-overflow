@@ -23,11 +23,6 @@
     "**/.next": true,
     "**/.vscode": true,
     "**/node_modules": true,
-    "next-env.d.ts": true,
-    ".eslintrc.json": true,
-    ".gitignore": true,
-    "postcss.config.mjs": true,
-    "README.md": true,
-    "tsconfig.json": true
+    "next-env.d.ts": true
   }
 }
